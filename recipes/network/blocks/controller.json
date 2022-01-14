@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blackstone"
+    },
+    "b": {
+      "item": "ae2:fluix_crystal"
+    },
+    "c": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:controller"
+  }
+}
